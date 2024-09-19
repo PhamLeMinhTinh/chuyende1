@@ -1,1 +1,2 @@
-week1
+đây là file week.txt
+thuộc week1
